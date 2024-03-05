@@ -10,6 +10,14 @@ div{
     padding: 20px;
 }
 
+p{
+    font-style: oblique;
+    color: red;
+    font-size: 30px;
+}
+
 strong{
     color: darkgreen;
+    font-size: 80px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
