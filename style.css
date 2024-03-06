@@ -16,6 +16,18 @@ p{
     font-size: 30px;
 }
 
+ol,ul{
+    color:rgb(218, 16, 174);
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+li{
+    color:rgb(202, 11, 11);
+    font-size: 25px;
+    font-weight:500;
+}
+
 strong{
     color: darkgreen;
     font-size: 80px;
